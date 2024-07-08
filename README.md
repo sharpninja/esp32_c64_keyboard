@@ -1,6 +1,6 @@
 # README
 
-## [hardware.md](design/hardware.md "mention")[hardware.md](design/hardware.md "mention")[hardware.md](design/hardware.md "mention")ESP32 to C64 Keyboard
+## ESP32 to C64 Keyboard
 
 [Code and Artifacts on Github](https://github.com/sharpninja/esp32\_c64\_keyboard)
 
