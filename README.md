@@ -1,12 +1,14 @@
-# ESP32 to C64 Keyboard
+# README
 
-[Code and Artifacts on Github](https://github.com/sharpninja/esp32_c64_keyboard)
+## [hardware.md](design/hardware.md "mention")[hardware.md](design/hardware.md "mention")[hardware.md](design/hardware.md "mention")ESP32 to C64 Keyboard
 
-This project provides a reference design for using an ESP32 with Blue Tooth as a keyboard for the __Commodore 64__, __Commodore 64c__, and __Commodore VIC/VC-20__ home computers.
+[Code and Artifacts on Github](https://github.com/sharpninja/esp32\_c64\_keyboard)
 
-With this hardware, you will be able to control your Commodore computer with either a __BlueTooth keyboard__, __USB Keyboard__, or via a __secure webservice over WiFi__.
+This project provides a reference design for using an ESP32 with Blue Tooth as a keyboard for the **Commodore 64**, **Commodore 64c**, and **Commodore VIC/VC-20** home computers.  The firmware uses an [Arduino Sketchbook](design/software.md).
 
-# Requirements
+With this hardware, you will be able to control your Commodore computer with either a **Blu Tooth keyboard**, **USB Keyboard**, or via a **secure webservice over WiFi**.
 
-- Arduino IDE 2 or equivalent
-- ESP32 Dev Board or equivalent
+## Requirements
+
+* Arduino IDE 2 or equivalent
+* ESP32 Dev Board or equivalent
